@@ -2,7 +2,7 @@
 
 > Author: Clifford Thiyam
 
-This script was done for the purpose of INDEE automation assignment: Video playback and controlusing Selenium.
+This script was done for the purpose of INDEE automation assignment: Video playback and control using Selenium.
 
 ### Context:
 
