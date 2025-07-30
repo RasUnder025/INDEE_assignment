@@ -16,6 +16,7 @@ Using Firefox browser was not compatable with the video.
 - VSCode IDE
 - Firefox browser (ver 141)
 - geckodriver (ver 36)
+- Selenium (ver 4.34.2)
 
 ## References used
 
